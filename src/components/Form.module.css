@@ -1,0 +1,20 @@
+.formGroup {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    height: 30px;
+}
+
+.formInput {
+    margin-right: 10px;
+    border-radius: 10px 10px;
+    border: 1px solid black;
+    height: 90%;
+}
+
+.button {
+    border-radius: 10px 10px;
+    border: 1px solid black;
+    height: 100%;
+    cursor: pointer;
+}

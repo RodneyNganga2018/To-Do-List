@@ -1,0 +1,29 @@
+.listGroup {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 25px;
+    font-size: 1.5rem;
+}
+
+.listItem {
+    display: flex;
+    align-items: center;
+    margin: 5px 0;
+}
+
+.listItemContent{
+    display: flex;
+    justify-content: flex-start;
+    width: 200px;
+}
+
+.listItemCheck{
+    margin-right: 10px;
+}
+
+.listItemRemove{
+    border-radius: 10px 10px;
+    border: 1px solid black;
+    height: 30px;
+}
